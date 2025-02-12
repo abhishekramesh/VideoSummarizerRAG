@@ -1,0 +1,2 @@
+# VideoSummarizerRAG
+Using Google GEMINI
